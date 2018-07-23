@@ -1,7 +1,11 @@
 {
   "name": "react-sample-test",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "A simple app that implements advanced React and Redux concepts - authentication, testing, middlewares, HOC's and deployment",
+  "main": "index.js",
+  "repository": "https://github.com/rockysantiago/react-sample-test.git",
+  "author": "rockysantiago <raphael.santiago@icloud.com>",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
     "enzyme": "^3.3.0",
